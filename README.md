@@ -1,4 +1,4 @@
-You can create such a diagram using various diagramming tools or software like Microsoft Visio, Lucidchart, draw.io, or even hand-draw it on paper.
+You can create such a diagram using various diagramming tools or software like Microsoft Visio, Lucidchart, draw.io, or even hand-draw it on paper..
 
 Here's a textual representation of a simple data flow diagram for the project:
 
